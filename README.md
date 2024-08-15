@@ -1,6 +1,6 @@
 # webscraping-finanzas
 
-Este proyecto demuestra un script básico de raspado web que extrae precios de acciones de Yahoo Finance y guarda los datos en un archivo CSV.
+Este proyecto demuestra un script básico de webscraping que extrae precios de acciones de Yahoo Finance y guarda los datos en un archivo CSV.
 
 ## Descripción general del proyecto
 
